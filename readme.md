@@ -4,6 +4,8 @@ To manually configure the WiFi SSID and Password on your Microsoft Azure IoT Dev
 
 1. Connect the board to your computer via the USB cable.
 
+    ![Connect Dev Kit to Computer via USB](./images/dev-kit-connect-computer-usb.png)
+
 1. Put the Azure IoT Develper kit into Configuration mode, by holding down button A and while keeping it pressed down, press and release the reset button.  Finally release button A.
 
     ![Boot to Configuration](./images/devkit-reboot-to-manual-config.png)
