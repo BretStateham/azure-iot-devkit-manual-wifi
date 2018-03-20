@@ -10,7 +10,7 @@ To manually configure the WiFi SSID and Password on your Microsoft Azure IoT Dev
 
     ![Boot to Configuration](./images/devkit-reboot-to-manual-config.png)
 
-1. Once the board is rebooted, the OLED display on the baord should report it's "id" and state that it is in configuration mode:
+1. Once the board is rebooted, the OLED display on the board should report it's "id" and state that it is in configuration mode:
 
     ![Board in cofig mode](./images/devkit-in-config-mode.png)
 
